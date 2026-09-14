@@ -1,1 +1,178 @@
-{}
+{
+  "baoyu-article-illustrator": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-article-illustrator",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "16fa09877dd9bade4f3d906014cfe383afc32a5488051e4d854c2682e0e96597"
+  },
+  "baoyu-comic": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-comic",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "355a92459552d1025fd473e0865593b7caa2e63976e9f72e29138d63e40501b7"
+  },
+  "baoyu-compress-image": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-compress-image",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "4ba819f28f8d9ee09426c3ffbea0dc8420be6583279a64a4c37bd342316870fd"
+  },
+  "baoyu-cover-image": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-cover-image",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "9813078b5fe1d68673cdbd1616b23d664e5e0d7525ce76ebb52718d013d57319"
+  },
+  "baoyu-danger-gemini-web": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-danger-gemini-web",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "e446d1f3cc1b9da101fb6f16f4642c6a76217fe3e562f06bbd4daa7871e04ba4"
+  },
+  "baoyu-danger-x-to-markdown": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-danger-x-to-markdown",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "ffb568b498b7444da5f2be4521ddda2622cfb8302f6585f15d3f961cbaf01138"
+  },
+  "baoyu-diagram": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-diagram",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "3b4ed6cf1a012d86b4c08c81b1e14aba210ba1db089ad98a8f92ef52db180219"
+  },
+  "baoyu-electron-extract": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-electron-extract",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "eb6f23729012f51767b25aa4cf19633f16c694a4e532266871f34bfcfd04e053"
+  },
+  "baoyu-format-markdown": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-format-markdown",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "a648d12df2f0b884e2d75f39093e7a8577d7b80ef9ce5ade9cbe7711df63f41a"
+  },
+  "baoyu-image-gen": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-image-gen",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "6968c653fa3fff4a55fa5aa7ba5f85c8a923af530e878463061fea76e95f75ed"
+  },
+  "baoyu-infographic": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-infographic",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "74c79f7e706ac4bde8036ed7c7e630607bb0440f8efb8291ea858e9f591e4967"
+  },
+  "baoyu-markdown-to-html": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-markdown-to-html",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "dbeb2181060573b173f06640d29cc5b67602bb2792e9369bb8b9fee12535a27b"
+  },
+  "baoyu-post-to-wechat": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-post-to-wechat",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "4f6d65703ccadd63450f6ea95f9bf5395c9ce5ed88fd441773b6ad6ae97a2d62"
+  },
+  "baoyu-post-to-weibo": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-post-to-weibo",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "12d5773e9762fb09212803d47eb0cd92759dd7690efdc98c7b6c24b47d3a3ef9"
+  },
+  "baoyu-post-to-x": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-post-to-x",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "f5deafc504f19202731ebdeb627265f5270c1023dd2b9eba2c0b1f3a4c289e3d"
+  },
+  "baoyu-slide-deck": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-slide-deck",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "9cba2b22038d1fe586759bf1663548f5c035ffa0f89054957392ff26074103bf"
+  },
+  "baoyu-translate": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-translate",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "89c1e072f7c66280d72e84b64697b49e49ebc938a821b239801e1a75c794d0ba"
+  },
+  "baoyu-url-to-markdown": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-url-to-markdown",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "1cdd0d2062e427869a27dab04262114aa2a846123a919844bdb85845e1250294"
+  },
+  "baoyu-wechat-summary": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-wechat-summary",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "e1a1dda98b90491574dae4034344b179e8bb5df2b4bb9543ab81a034dbf05e55"
+  },
+  "baoyu-xhs-images": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-xhs-images",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "dce35c0b1678e1645a6039bd5398e0f15f38a19b47f15b9903900ba9a5520d1c"
+  },
+  "baoyu-youtube-transcript": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": "skills/baoyu-youtube-transcript",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "aec0531eab833cc4316b71836f40c487e018dab82b76cd52ec9127a2eb9259de"
+  },
+  "release-skills": {
+    "owner": "JimLiu",
+    "repo": "baoyu-skills",
+    "url": "https://github.com/JimLiu/baoyu-skills",
+    "path": ".claude/skills/release-skills",
+    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
+    "digest": "d9cfe13cdeb22a4609755cd970d031458186647136b6044ea6594f4ed839560d"
+  }
+}
