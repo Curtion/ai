@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "name": "ZCode",
+    "global": "~/.zcode/skills",
+    "project": ".zcode/skills"
+  }
+]

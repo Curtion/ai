@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "harness": "ZCode",
+    "mode": "link"
+  }
+]

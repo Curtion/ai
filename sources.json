@@ -166,13 +166,5 @@
     "path": "skills/baoyu-youtube-transcript",
     "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
     "digest": "aec0531eab833cc4316b71836f40c487e018dab82b76cd52ec9127a2eb9259de"
-  },
-  "release-skills": {
-    "owner": "JimLiu",
-    "repo": "baoyu-skills",
-    "url": "https://github.com/JimLiu/baoyu-skills",
-    "path": ".claude/skills/release-skills",
-    "commit": "1567581c26ec29f4216c6e6835415bf30343b0e3",
-    "digest": "d9cfe13cdeb22a4609755cd970d031458186647136b6044ea6594f4ed839560d"
   }
 }
